@@ -1,3 +1,9 @@
+#Lightning Web Components Have Unique JavaScript Challenges.
+
+Troubleshooting JavaScript is a skill of its own. Troubleshooting Lightning web components, built with JavaScript, takes that skill and builds on it. One of the first things you discover is that Lightning web components are compiled and minified. Minification makes them smaller and faster for the browser to load. But it also makes them challenging to troubleshoot. Minified code is especially hard to work with because line breaks are removed and variable names are changed. 
+
+
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
